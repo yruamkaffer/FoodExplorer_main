@@ -29,8 +29,8 @@ Neste desafio, vamos desenvolver o food explorer, um menu interativo para um res
 ## Instalação
 
 ```bash
-# Faça o clone do repotório
-  git clone git@github.com:/yruamkaffer/FoodExplorer_main.git
+# Faça o clone do repositório
+  git clone git@github.com:yruamkaffer/FoodExplorer_main.git
 
 # Acessar a pasta do projeto pelo terminal
   cd FoodExplorer_main
