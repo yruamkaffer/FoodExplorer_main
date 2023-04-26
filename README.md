@@ -4,7 +4,7 @@
 <br>
 
 Back-end: https://github.com/yruamkaffer/FoodExplorerBackEnd_main<br>
-Deploy: 
+Deploy: https://foodexplorermain.netlify.app/
 
 # FOOD EXPLORER - Desafio final
 
