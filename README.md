@@ -33,7 +33,7 @@ Neste desafio, vamos desenvolver o food explorer, um menu interativo para um res
   git clone git@github.com:/yruamkaffer/FoodExplorer_main.git
 
 # Acessar a pasta do projeto pelo terminal
-  cd FoodExplorer
+  cd FoodExplorer_main
 
 # Faça a instalação das depêndencias
   npm i
