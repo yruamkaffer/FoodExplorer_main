@@ -3,8 +3,8 @@
 </div>
 <br>
 
-Back-end: https://github.com/yruamkaffer/FoodExplorer_BackEnd<br>
-Site funcionando: 
+Back-end: https://github.com/yruamkaffer/FoodExplorerBackEnd_main
+Deploy: 
 
 # FOOD EXPLORER - Desafio final
 
@@ -30,7 +30,7 @@ Neste desafio, vamos desenvolver o food explorer, um menu interativo para um res
 
 ```bash
 # Faça o clone do repotório
-  git clone git@github.com:/yruamkaffer/FoodExplorer.git
+  git clone git@github.com:/yruamkaffer/FoodExplorer_main.git
 
 # Acessar a pasta do projeto pelo terminal
   cd FoodExplorer
@@ -43,7 +43,7 @@ Neste desafio, vamos desenvolver o food explorer, um menu interativo para um res
 ```
 
 ```bash
-# Perfil do adminstrador
+# Perfil do admin
 usuário: adm@email.com
 senha: 123456
 ```
