@@ -1,3 +1,7 @@
+# FOOD EXPLORER - Desafio final (Front-End)
+
+Neste desafio, vamos desenvolver o food explorer, um menu interativo para um restaurante fictício.<br>
+
 <div align="center">
   <img alt="Projeto" title="FoodExplorer" src="https://app.rocketseat.com.br/static/media/project.f93ae05b.png">
 </div>
@@ -5,10 +9,6 @@
 
 Back-end: https://github.com/yruamkaffer/FoodExplorerBackEnd_main<br>
 Deploy: https://foodexplorermain.netlify.app/
-
-# FOOD EXPLORER - Desafio final
-
-Neste desafio, vamos desenvolver o food explorer, um menu interativo para um restaurante fictício.
 
 # Critérios de avaliação
 
